@@ -17,4 +17,16 @@
 - 💬 Ask me about **ReactJs, NextJs etc.**
 - 📫 How to reach me **ayobamiakinola84@gmail.com**
 
-[![Akinola's WakaTime stats](https://wakatime.com/share/@CodieProdigy/ced5b07d-4ae0-45f4-ab5d-91b9ab7a02db.png)](https://wakatime.com/@CodieProdigy)
+<h3 align="left">Coding Activity:</h3>
+<p align="center">
+  <!-- First WakaTime chart -->
+  <img src="https://wakatime.com/share/@CodieProdigy/ced5b07d-4ae0-45f4-ab5d-91b9ab7a02db.png" width="500" alt="Akinola's WakaTime stats"/>
+  
+  <!-- Second WakaTime chart -->
+  <img src="https://wakatime.com/share/@CodieProdigy/8f76258f-55cf-4757-bd49-0a5a56001d93.png" width="500" alt="Akinola's WakaTime languages"/>
+</p>
+
+<!-- Optional: Add basic GitHub stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ultimateprodigy&show_icons=true&theme=radical" width="450"/>
+</p>
