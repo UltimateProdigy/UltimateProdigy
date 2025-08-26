@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Akinola Ayobami</h1>
-<h3 align="center">Frontend Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <!-- Animated Text -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Frontend+Engineer;React+and+NextJS+Developer;TypeScript+Enthusiast;Open+Source+Contributor;UI%2FUX+Enthusiast;Clean+Code+Advocate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer;React+and+NextJS+Developer;TypeScript+Enthusiast;NodeJs+Express;Open+Source+Contributor;UI%2FUX+Enthusiast;Clean+Code+Advocate" alt="Typing SVG" />
 </p>
 
 <!-- Profile Views -->
