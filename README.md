@@ -23,10 +23,10 @@
 
 ```javascript
 const akinola = {
-    currentFocus: "Three60",
-    learning: "React Native 📱",
+    currentFocus: "CarHut",
+    learning: "Cloud Engineering",
     looking: "Open Source Collaboration 🤝",
-    askMeAbout: ["React", "Next.js", "TypeScript", "Frontend Architecture"],
+    askMeAbout: ["React", "Next.js", "TypeScript", "Frontend Architecture", "Backend Architecture", "Node", "Express", "Docker", "NestJs" ],
     contact: "ayobamiakinola84@gmail.com",
     funFact: "I debug with console.log and I'm proud of it! 😄"
 };
