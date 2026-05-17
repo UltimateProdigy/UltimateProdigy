@@ -112,7 +112,7 @@ const akinola = {
 
 <!-- Contribution Graph -->
 <h3 align="left">🐍 Contribution Graph:</h3>
-<img src="https://github.com/ultimateprodigy/ultimateprodigy/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://github.com/ultimateprodigy/ultimateprodigy/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 <!-- Dev Quote -->
 <h3 align="left">✍️ Random Dev Quote:</h3>
